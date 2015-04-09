@@ -3,7 +3,7 @@ The script runs on NodeJS with the Mocha test framework and uses Should assertio
 
 Setup requirements:
 
-NodeJS
+Node.js
 - https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager
 
 Mocha
